@@ -1,2 +1,2 @@
 # terraform-aws-cicd-pipeline
-Production-style CI/CD pipeline for Terraform on AWS using GitHub Actions, Python, and Infrastructure as Code.
+[![Terraform CI Pipeline](https://github.com/Fadila-Yiddana/terraform-aws-cicd-pipeline/actions/workflows/terraform.yml/badge.svg)](https://github.com/Fadila-Yiddana/terraform-aws-cicd-pipeline/actions/workflows/terraform.yml)
